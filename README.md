@@ -28,10 +28,10 @@ It showcases environment-based configuration, connection pooling, and CRUD funct
 
 | Component | Technology Used |
 |------------|----------------|
-| **Backend Framework** | Django 5.x |
+| **Backend Framework** | Django  |
 | **Database** | MongoDB (NoSQL) |
 | **ODM** | MongoEngine |
-| **Language** | Python 3.x |
+| **Language** | Python  |
 | **API Tool** | Django REST Framework |
 | **Environment Management** | python-dotenv |
 | **Testing** | Postman |
@@ -42,9 +42,7 @@ It showcases environment-based configuration, connection pooling, and CRUD funct
 
 1 Create Virtual Environment
 python -m venv venv
-venv\Scripts\activate    # (Windows)
-# or
-source venv/bin/activate # (Mac/Linux)
+venv\Scripts\activate 
 
 2 Install Required Packages
 pip install -r requirements.txt
