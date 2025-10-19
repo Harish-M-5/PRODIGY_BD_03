@@ -72,5 +72,5 @@ This project is licensed under the MIT License.
 You are free to use, modify, and distribute this project for educational and professional purposes.
 
 ## 🎥 Output
-<img width="1920" height="1080" alt="Screenshot 2025-10-19 194551" src="https://github.com/user-attachments/assets/ced6d336-8ab3-4e97-ab40-0bf5ef2683eb" />
+<img width="1920" height="1080" alt="Screenshot 2025-10-19 204359" src="https://github.com/user-attachments/assets/7c50ea0f-90a7-4f23-9192-0623e90312c1" />
 
